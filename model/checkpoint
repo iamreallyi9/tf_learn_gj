@@ -1,0 +1,6 @@
+model_checkpoint_path: "minst_model-49001"
+all_model_checkpoint_paths: "minst_model-45001"
+all_model_checkpoint_paths: "minst_model-46001"
+all_model_checkpoint_paths: "minst_model-47001"
+all_model_checkpoint_paths: "minst_model-48001"
+all_model_checkpoint_paths: "minst_model-49001"
